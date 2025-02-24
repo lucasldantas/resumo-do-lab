@@ -1,65 +1,65 @@
-# resumo-do-lab
-Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
+# 📚 resumo-do-lab
+Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO.
 
-# Tipos de Nuvem
+# ☁️ Tipos de Nuvem
 
-## Nuvem Pública
+## 🌐 Nuvem Pública
 Infraestrutura compartilhada por múltiplos usuários e gerenciada por um único provedor.
 
 **Exemplo:** AWS, Azure, Oracle, Google Cloud, ...
 
-## Nuvem Privada
+## 🏢 Nuvem Privada
 Infraestrutura exclusiva para uma organização, podendo estar on-premises ou hospedada por terceiros.
 
 **Exemplo:** VMware Private Cloud, OpenStack, Azure Stack
 
-## Nuvem Híbrida
+## 🔄 Nuvem Híbrida
 Combinação de nuvem pública e privada, permitindo integração e migração de cargas de trabalho.
 
 **Exemplo:** AWS Outposts, Azure Arc, Google Anthos
 
-# Diferenças entre CapEx e OpEx
+# 💰 Diferenças entre CapEx e OpEx
 
-## Despesas de Capital (CapEx)
+## 💸 Despesas de Capital (CapEx)
 É o gasto inicial de dinheiro em infraestrutura física. As despesas de CapEx têm um valor que se reduz com o tempo.
 
-## Despesas Operacionais (OpEx)
+## 🧾 Despesas Operacionais (OpEx)
 Gastar com produtos e serviços conforme o necessário, pagamento conforme o uso. A cobrança é feita imediatamente.
 
-# Modelo baseado em Consumo (pay-as-you-go)
+# ⚡ Modelo baseado em Consumo (pay-as-you-go)
 - Melhor previsão de custos.
 - São fornecidos preços para recursos e serviços individuais.
 - A cobrança é feita com base no seu uso real.
 
-# Conceitos Importantes
+# 🧠 Conceitos Importantes
 
-## Alta Disponibilidade
+## 🔐 Alta Disponibilidade
 Alta Disponibilidade se concentra em garantir a disponibilidade máxima (acordos de nível de serviço - SLA), independente de interrupções ou eventos que possam ocorrer.
 
-## Escalabilidade
+## 📈 Escalabilidade
 Escalabilidade refere-se à capacidade de ajustar recursos para atender à demanda. A capacidade de escalar significa que você poderá adicionar mais recursos para lidar melhor com o aumento da demanda.
 
-## Elasticidade
+## 🚀 Elasticidade
 Elasticidade é o salto repentino acentuado na demanda, onde seus recursos implantados poderiam ser expandidos (automaticamente ou manualmente). Exemplo: **Black Friday**.
 
-## Confiabilidade
+## ✅ Confiabilidade
 Confiabilidade é garantir a alta disponibilidade, tolerância a falhas e escalabilidade para suportar cargas variáveis.
 
-## Previsibilidade
+## 🔮 Previsibilidade
 Previsibilidade permite que você avance com confiança, seja no desempenho ou no custo. Ambas são influenciadas pelo **Microsoft Azure Well Architected Framework**.
 
-## Segurança em Nuvem
+## 🛡️ Segurança em Nuvem
 A segurança em nuvem fornecerá ferramentas que atendem às necessidades do cliente, mas a implementação de muitas delas deve ser feita pelo próprio cliente.
 
-# Governança
+# 🛠️ Governança
 São um conjunto de políticas, processos e controles que garantem o uso adequado e eficiente dos recursos na nuvem.
 
-# Gerenciabilidade
+# ⚙️ Gerenciabilidade
 
-- **Portal Web**
-- **Linha de Comando**
-- **API**
-- **PowerShell**
+- **Portal Web** 🌐
+- **Linha de Comando** ⌨️
+- **API** 💻
+- **PowerShell** 🖥️
 
 Exemplo: Escalar automaticamente a implantação de recursos com base na necessidade.
 
