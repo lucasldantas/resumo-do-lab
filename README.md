@@ -100,3 +100,54 @@ Focado no desenvolvimento de Aplicativos. 🔧
 Os usuários pagam pelo software que utilizam em um modelo de assinatura. 💸
 
 **Ex:** Office 365, Teams
+
+---
+
+# 🌍 REGIÕES
+
+Nem todos os recursos estão disponíveis para todas as regiões.
+
+- 📍 **As regiões** são compostas de um ou mais datacenters muito próximos.
+- ⚡ **Elas fornecem flexibilidade e escala** para reduzir a latência do cliente.
+- 🔒 **As regiões preservam a residência dos dados** com uma oferta abrangente de conformidade (LGPD).
+
+**Região do Azure** = [Zona de Disponibilidade 1, Zona de Disponibilidade 2, Zona de Disponibilidade 3]
+
+---
+
+# 🛡️ ZONA DE DISPONIBILIDADE (CONJUNTO DE DISPONIBILIDADE)
+
+- 🔗 **São agrupamentos lógicos de VMs**.
+- 💥 **Fornecem proteção contra tempo de inatividade** devido à falha do datacenter.
+- 🌐 **Separam fisicamente os datacenters** dentro da mesma região.
+- 🔋 **Cada datacenter é equipado com alimentação, resfriamento e rede independentes**.
+
+---
+
+# 🇺🇸 REGIÕES SOBERANAS DO AZURE
+
+- 🏛️ **Serviços Governamentais dos EUA**: Atende às necessidades de segurança e conformidade das agências federais, governos e seus provedores de soluções.
+- 🇨🇳 **Azure China**: Primeiro provedor estrangeiro de nuvem pública da China e atende às necessidades governamentais. Mantida pela 21vianet.
+
+---
+
+# 💻 RECURSOS DO AZURE
+
+- 📦 **Armazenamento**
+- 🖥️ **Máquinas Virtuais (VMs)**
+- 🌐 **Redes Virtuais**
+- 🛠️ **Serviços de Aplicativos**
+- 🗃️ **Banco de Dados**
+- ⚙️ **Funções**
+- … (Outros recursos)
+
+---
+
+# 🏷️ GRUPO DE RECURSOS
+
+- ✏️ **Não é possível renomear um grupo de recursos**.
+- 🗂️ **Um grupo de recursos é um contêiner** que você usa para gerenciar e agrupar recursos em uma única unidade.
+- 🌍 **Os recursos podem existir em apenas um grupo de recursos**, mas podem estar em **regiões diferentes**.
+- 🔄 **Os recursos podem ser movidos para diferentes grupos de recursos**.
+- 🏗️ **Os aplicativos podem utilizar vários grupos de recursos**.
+
