@@ -1,6 +1,8 @@
 # 📚 resumo-do-lab
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO.
 
+---
+
 # ☁️ Tipos de Nuvem
 
 ## 🌐 Nuvem Pública
@@ -18,6 +20,8 @@ Combinação de nuvem pública e privada, permitindo integração e migração d
 
 **Exemplo:** AWS Outposts, Azure Arc, Google Anthos
 
+---
+
 # 💰 Diferenças entre CapEx e OpEx
 
 ## 💸 Despesas de Capital (CapEx)
@@ -30,6 +34,8 @@ Gastar com produtos e serviços conforme o necessário, pagamento conforme o uso
 - Melhor previsão de custos.
 - São fornecidos preços para recursos e serviços individuais.
 - A cobrança é feita com base no seu uso real.
+
+---
 
 # 🧠 Conceitos Importantes
 
@@ -64,3 +70,33 @@ São um conjunto de políticas, processos e controles que garantem o uso adequad
 Exemplo: Escalar automaticamente a implantação de recursos com base na necessidade.
 
 Implantar recursos com base em um modelo pré-configurado, removendo a necessidade de configuração manual.
+
+---
+
+🌐 **IaaS (Infraestrutura como Serviço):**
+
+É um modelo de computação em nuvem que oferece recursos de infraestrutura como servidores, armazenamento e redes sob demanda. 🚀
+
+Você configura e gerencia o hardware para seu aplicativo. 💻
+
+**Ex:** Azure Virtual Machines
+
+---
+
+🛠️ **PaaS (Plataforma como Serviço):**
+
+É um modelo de computação em nuvem que fornece uma plataforma pronta para o desenvolvimento. 📲
+
+Focado no desenvolvimento de Aplicativos. 🔧
+
+**Ex:** Azure App Services
+
+---
+
+☁️ **SaaS (Software como Serviço):**
+
+É um modelo de distribuição de software onde os aplicativos são hospedados na nuvem e acessados pelos usuários via internet. 🌍
+
+Os usuários pagam pelo software que utilizam em um modelo de assinatura. 💸
+
+**Ex:** Office 365, Teams
